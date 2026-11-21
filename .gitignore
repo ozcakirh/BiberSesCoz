@@ -98,6 +98,13 @@ StyleCopReport.xml
 *.svclog
 *.scc
 
+# Local FFmpeg binaries and extracted packages
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+ffmpeg/
+tools/ffmpeg/
+
 # Chutzpah Test files
 _Chutzpah*
 
